@@ -6,6 +6,9 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>24 hours pls</title>
 	<link rel="stylesheet" href="style.css">
+	<link rel="apple-touch-icon" href="/favicon.png">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="apple-mobile-web-app-status-bar-style" content="black">
 </head>
 <body class="pzplui-strict-mode text-center">
 	<h1 class="d1 line-height-6">24 hours pls</h1>
