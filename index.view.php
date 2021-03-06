@@ -11,6 +11,11 @@
 	<meta name="apple-mobile-web-app-status-bar-style" content="black">
 </head>
 <body class="pzplui-strict-mode text-center">
+	<!--[if IE]>
+	<p class="browserupgrade">You are using an <strong>outdated</strong> browser.
+	Please <a href="https://browsehappy.com/">upgrade your browser</a> to
+	 improve your experience and security.</p>
+	<![endif]-->
 	<h1 class="d1 line-height-6">24 hours pls</h1>
 	<?php if ($calc) : ?>
 		<h2><i><?= $_GET["time"] ?></i> is <?= $calc ?></h2><br>
